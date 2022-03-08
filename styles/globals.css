@@ -6,7 +6,7 @@
 
 html,
 body {
-  @apply text-black bg-sand p-0 m-0;
+  @apply text-black bg-sand p-0 m-0 dark:bg-black dark:text-gray-200;
 }
 
 a {
