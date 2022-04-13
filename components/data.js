@@ -1,4 +1,4 @@
-export const dummy = [
+export const results = [
   {
     "id": "304fc1c8-cead-4acc-8c79-e21551782088",
     "cover": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/306386ee-8614-4567-a986-c47a3b4386c7/clock_2_color_side.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220315%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220315T115710Z&X-Amz-Expires=3600&X-Amz-Signature=46734a906a47c54bbc92c5b67e66a7859d43b5aa599f28ca397431fda5ca78bd&X-Amz-SignedHeaders=host&x-id=GetObject",
