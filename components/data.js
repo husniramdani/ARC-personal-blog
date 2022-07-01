@@ -376,3 +376,527 @@ export const results = [
     "Layout": "type2"
   }
 ]
+
+export const pages = {
+  "id": "38bcb008-7694-48bb-934b-255f8222fd62",
+  "cover": "https://www.notion.so/images/page-cover/nasa_robert_stewart_spacewalk_2.jpg",
+  "Title": "Python for Data Science",
+  "Creator": {
+    "object": "user",
+    "id": "91a99957-0398-4c1c-8279-b975ae8f993c",
+    "name": "Husni Ramdani",
+    "avatar_url": "https://lh3.googleusercontent.com/a-/AOh14Gj4lOCPn-JJOniM407JJwfpQt-kBeRrYB0W_EpYnA=s100",
+    "type": "person",
+    "person": {}
+  },
+  "Subtitle": [
+    {
+      "type": "text",
+      "text": {
+        "content": "Kamu ngapain bacaa ini mending tidur aja 🤤",
+        "link": null
+      },
+      "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+      },
+      "plain_text": "Kamu ngapain bacaa ini mending tidur aja 🤤",
+      "href": null
+    }
+  ],
+  "Published": "2022-01-02",
+  "Layout": "type2"
+}
+
+export const blocks = [
+  {
+    "object": "block",
+    "id": "951f50da-c431-4ce6-a19e-fbeff611ca90",
+    "created_time": "2022-01-02T14:42:00.000Z",
+    "last_edited_time": "2022-01-02T14:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_1",
+    "heading_1": {
+      "color": "default",
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Intro",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Intro",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "b84753dd-827b-4070-b2a2-7897c71ebb06",
+    "created_time": "2022-01-02T14:42:00.000Z",
+    "last_edited_time": "2022-01-02T14:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "color": "default",
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Python is a general-purpose programming language that is becoming ever more popular for data science. Companies worldwide are using Python to harvest insights from their data and gain a competitive edge. We will focuses on Python specifically for data science. In our Introduction to Python course, you'll learn about powerful ways to store and manipulate data, and helpful data science tools to begin conducting your own analyzes.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Python is a general-purpose programming language that is becoming ever more popular for data science. Companies worldwide are using Python to harvest insights from their data and gain a competitive edge. We will focuses on Python specifically for data science. In our Introduction to Python course, you'll learn about powerful ways to store and manipulate data, and helpful data science tools to begin conducting your own analyzes.",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "d87dd5f2-3c01-44d3-a242-44fb8ad13c0e",
+    "created_time": "2022-01-02T14:42:00.000Z",
+    "last_edited_time": "2022-01-02T14:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_1",
+    "heading_1": {
+      "color": "default",
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Content",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Content",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "045f711f-8992-46c4-a0e5-bdc4a6516aa0",
+    "created_time": "2022-01-02T14:42:00.000Z",
+    "last_edited_time": "2022-01-02T14:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "color": "default",
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "1. Install Python",
+            "link": {
+              "url": "https://www.notion.so/1-Install-Python-45be7c95daff4da58366059c26baf51b"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "1. Install Python",
+          "href": "https://www.notion.so/1-Install-Python-45be7c95daff4da58366059c26baf51b"
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "e1b229c3-1d67-4612-83ee-8ed4528f9966",
+    "created_time": "2022-01-02T14:42:00.000Z",
+    "last_edited_time": "2022-01-02T14:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "color": "default",
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "2. Hello World",
+            "link": {
+              "url": "https://www.notion.so/2-Hello-World-d75aaba1ce154f2f9d093f176002ce84"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "2. Hello World",
+          "href": "https://www.notion.so/2-Hello-World-d75aaba1ce154f2f9d093f176002ce84"
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "7e9602bf-aae6-424d-a5cb-7bb417cf0f2e",
+    "created_time": "2022-01-02T14:42:00.000Z",
+    "last_edited_time": "2022-01-02T14:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "color": "default",
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "3. Variable dan Tipe data",
+            "link": {
+              "url": "https://www.notion.so/3-Variable-dan-Tipe-data-cbab2218263a45b284500c647e525cff"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "3. Variable dan Tipe data",
+          "href": "https://www.notion.so/3-Variable-dan-Tipe-data-cbab2218263a45b284500c647e525cff"
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "031d67df-b93f-4529-bdc5-e99ab088d8fd",
+    "created_time": "2022-01-02T14:42:00.000Z",
+    "last_edited_time": "2022-01-02T14:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "color": "default",
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "4. Python Operators",
+            "link": {
+              "url": "https://www.notion.so/4-Python-Operators-7ebe19b6f6f74320a2808893687ccd06"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "4. Python Operators",
+          "href": "https://www.notion.so/4-Python-Operators-7ebe19b6f6f74320a2808893687ccd06"
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "a393faa0-1036-43c6-916a-b539b0c646d4",
+    "created_time": "2022-01-02T14:42:00.000Z",
+    "last_edited_time": "2022-01-02T14:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "color": "default",
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "5. If else dan elif",
+            "link": {
+              "url": "https://www.notion.so/5-If-else-dan-elif-06e007a3a41d4bb3b2c49a28502be79a"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "5. If else dan elif",
+          "href": "https://www.notion.so/5-If-else-dan-elif-06e007a3a41d4bb3b2c49a28502be79a"
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "f66d54b8-87ce-4c23-8c0a-46ce81e2782d",
+    "created_time": "2022-01-02T14:42:00.000Z",
+    "last_edited_time": "2022-01-02T14:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "color": "default",
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "6. Looping",
+            "link": {
+              "url": "https://www.notion.so/6-Looping-96cd7e52332c46ed936c7509ab2383d6"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "6. Looping",
+          "href": "https://www.notion.so/6-Looping-96cd7e52332c46ed936c7509ab2383d6"
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "e5e2158c-64f5-4470-aba9-e0fa63af754a",
+    "created_time": "2022-01-02T14:42:00.000Z",
+    "last_edited_time": "2022-01-02T14:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "color": "default",
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "7. Python Lists",
+            "link": {
+              "url": "https://www.notion.so/7-Python-Lists-279d059f91f742a38766b2cc47f55100"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "7. Python Lists",
+          "href": "https://www.notion.so/7-Python-Lists-279d059f91f742a38766b2cc47f55100"
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "759710a8-d7db-434e-b755-3505be52b7ba",
+    "created_time": "2022-01-02T14:42:00.000Z",
+    "last_edited_time": "2022-01-02T14:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "color": "default",
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "8. Function dan Packages",
+            "link": {
+              "url": "https://www.notion.so/8-Function-dan-Packages-7b52cfeacf574953b8a81d301e36f928"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "8. Function dan Packages",
+          "href": "https://www.notion.so/8-Function-dan-Packages-7b52cfeacf574953b8a81d301e36f928"
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "6bf50d49-6d29-4b98-a10e-8220de77fd85",
+    "created_time": "2022-01-02T14:42:00.000Z",
+    "last_edited_time": "2022-01-02T14:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "91a99957-0398-4c1c-8279-b975ae8f993c"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "color": "default",
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "9. Numpy",
+            "link": {
+              "url": "https://www.notion.so/9-Numpy-b02614c274564fbc96548a3296b46b23"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "9. Numpy",
+          "href": "https://www.notion.so/9-Numpy-b02614c274564fbc96548a3296b46b23"
+        }
+      ]
+    }
+  }
+] 
